@@ -1,0 +1,9 @@
+python-dotenv
+beautifulsoup4
+bencodepy
+torf
+requests>=2.32.3
+bencodepy>=0.9.0
+tqdm>=4.65.0
+watchdog
+flask

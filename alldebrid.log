@@ -1,0 +1,45 @@
+2025-05-14 15:03:47,961 | 📡 Watching for torrents...
+2025-05-17 20:32:40,235 | INFO | 🌐 Remote torrent fetcher started...
+2025-05-17 20:32:40,235 | INFO | 📡 Torrent processor started...
+2025-05-17 20:32:40,235 | INFO | 🛰️ Tinfoil server running at http://192.168.0.143:9000/ (auth enabled)
+2025-05-17 20:33:10,828 | INFO | ✅ Downloaded remote torrent: Neon_Apex_-_Beyond_the_Limit.torrent
+2025-05-17 20:33:15,282 | INFO | 📄 Found torrent: Neon_Apex_-_Beyond_the_Limit.torrent
+2025-05-17 20:33:15,517 | INFO | ⏳ Status: In queue
+2025-05-17 20:33:20,626 | INFO | ⏳ Status: In queue
+2025-05-17 20:33:25,734 | INFO | ⏳ Status: Downloading
+2025-05-17 20:33:30,829 | INFO | ⏳ Status: Downloading
+2025-05-17 20:33:35,922 | INFO | ⏳ Status: Downloading
+2025-05-17 20:33:41,030 | INFO | ⏳ Status: Downloading
+2025-05-17 20:33:43,311 | ERROR | ⚠️ Remote fetch error: HTTPConnectionPool(host='switch4pda.ru', port=8878): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AB0C07EAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-17 20:33:46,124 | INFO | ⏳ Status: Downloading
+2025-05-17 20:33:51,216 | INFO | ⏳ Status: Downloading
+2025-05-17 20:33:56,314 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:01,408 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:06,499 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:11,608 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:16,718 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:21,828 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:26,921 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:32,015 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:37,144 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:42,255 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:47,359 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:52,469 | INFO | ⏳ Status: Downloading
+2025-05-17 20:34:57,583 | INFO | ⏳ Status: Downloading
+2025-05-17 20:35:02,671 | INFO | ⏳ Status: Downloading
+2025-05-17 20:35:07,792 | INFO | ⏳ Status: Downloading
+2025-05-17 20:35:12,877 | INFO | ⏳ Status: Downloading
+2025-05-17 20:35:17,987 | INFO | ⏳ Status: Downloading
+2025-05-17 20:35:23,097 | INFO | ✅ Download is ready.
+2025-05-17 20:35:59,158 | INFO | ✅ Finished: Neon Apex Beyond the Limit [0100C6E021BF2800][v65536] (0.25 GB).nsz | Speed: 4.31 MB/s | Size: 153.76 MB
+2025-05-17 20:35:59,158 | INFO | 📁 Moved to library: C:/new.v1/library\Neon Apex Beyond the Limit [0100C6E021BF2800][v65536] (0.25 GB).nsz
+2025-05-17 20:36:02,283 | INFO | ✅ Finished: Neon Apex Beyond the Limit [0100C6E021BF2000][v0] (0.47 GB).nsz | Speed: 7.85 MB/s | Size: 304.99 MB
+2025-05-17 20:36:02,283 | INFO | 📁 Moved to library: C:/new.v1/library\Neon Apex Beyond the Limit [0100C6E021BF2000][v0] (0.47 GB).nsz
+2025-05-18 16:32:27,436 | INFO | 🌐 Remote torrent fetcher started...
+2025-05-18 16:32:27,436 | INFO | 📡 Torrent processor started...
+2025-05-18 16:32:27,452 | INFO | 🛰️ Tinfoil server running at http://192.168.0.143:9000/ (auth enabled)
+2025-05-18 16:32:57,998 | INFO | ✅ Downloaded remote torrent: Neon_Apex_-_Beyond_the_Limit.torrent
+2025-05-18 16:33:02,495 | INFO | 📄 Found torrent: Neon_Apex_-_Beyond_the_Limit.torrent
+2025-05-18 16:33:02,495 | INFO | ✅ Duplicate ROM detected in library: Neon Apex Beyond the Limit [0100C6E021BF2000][v0] (0.47 GB).nsz
+2025-05-18 16:33:02,495 | INFO | ⚠️ Duplicate detected: [0100C6E021BF2000][v0] — skipping.
+2025-05-18 16:34:42,754 | INFO | 🛑 CTRL+C received — shutting down.
